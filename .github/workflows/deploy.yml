@@ -3,7 +3,7 @@ name: Deploy to Simply.com
 on:
   push:
     branches:
-      - main  # Denne action kører kun, når der pushes til 'main' branchen
+      - main  # This action only runs when pushing to the 'main' branch
 
 jobs:
   deploy:
@@ -16,7 +16,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Brug den version, dit projekt kræver
+          node-version: '16'  # Use the Node.js version your project requires
+
+      - name: Install pnpm
+        run: npm install -g pnpm
 
       - name: Install dependencies
         run: pnpm install
