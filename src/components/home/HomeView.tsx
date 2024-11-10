@@ -8,7 +8,7 @@ function HomeView() {
           {/* content section  */}
           <div className=" w-full md:w-2/4 text-center md:text-start mt-16 space-y-4">
             <h1 className=" text-4xl lg:text-7xl font-bold leading-tight">
-            Ryomgård <span className="text-yellow-500">pizza og kebab</span> 
+            Ryomgårdssssss <span className="text-yellow-500">pizza og kebab</span> 
             </h1>
             <p className=" text-sm lg:text-base">
             kvalitet, service og renlighed Friske varer. 
