@@ -12,7 +12,7 @@ function HomeView() {
             </h1>
             <p className=" text-sm lg:text-base">
             kvalitet, service og renlighed Friske varer. 
-            HOS OS ER DET ALTID EN SELVFØLGE AT KVALITETEN ER HELT TOP HVER GANG  </p>
+            Kom og smag Ryomgårds bedste pizza!  </p>
             <Button title="Read More" />
           </div>
     
