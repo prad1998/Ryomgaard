@@ -85,7 +85,7 @@ const Footer = () => {
              86 37 30 00
             </Link>
             <a className="hover:text-yellow-500 transition duration-300" href="https://www.facebook.com/Ryompizzakebab/?locale=da_DK" >
-              Find os på facebook
+              Find os på facebook det virker
             </a>
           </div>
         </div>
