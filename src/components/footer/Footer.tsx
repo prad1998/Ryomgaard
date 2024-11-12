@@ -13,7 +13,7 @@ const Footer = () => {
           <p className="text-sm">
           Hos Venedig Pizza finder du mange lækre retter. Vi serverer alt fra Drikke, Italiensk Pizza, Pesto Pizzaer, Salat Pizza, Mexicanske Pizzaer, Indbagt Pizza, Åben indbagte, Special Pizza, Hjemmelavet, Special Retter, Grillretter, Pommes frites, Pastaretter, Burger, Børnemenu, Salater, Nachos, Tilbehør, Vi er sikre på, at der er en, som vil falde i din smag.
           </p>
-        </div>
+        </div>  
         <div>
           <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Links</h1>
           <div className=" flex flex-col gap-2">
