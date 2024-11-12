@@ -1,4 +1,3 @@
-import React from 'react';
 import menu from '../../assets/menu2.jpg';
 
 function Menu() {

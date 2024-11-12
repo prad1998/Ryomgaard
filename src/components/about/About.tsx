@@ -1,6 +1,3 @@
-import React from "react";
-
-
 
 console.log("hej")
 const About = () => {
